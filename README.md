@@ -1,22 +1,22 @@
 # React Native Dating App Features
 ## Our fully-coded app is highly customizable being built with ready-to-use screens, with easily configurable application design and optimized for user growth.
 
-Dynamic Matching Algorithm
-Dynamic Recommendations
-Tinder-like Swipe, for Like, Super like and Dislike
-Gorgeous Matching UI
-Dating preferences, such as gender, location, and age preference
-Location Filter / Geofencing
-Real-time Chat
-Photo Messaging
-Video Messaging
-Audio Messages
-Text Messaging & Emojis
-Push Notifications
-Clickable URLs
-Photo Gallery
-Online Indicators
-In-Reply To functionality
+* Dynamic Matching Algorithm
+* Dynamic Recommendations
+* Tinder-like Swipe, for Like, Super like and Dislike
+* Gorgeous Matching UI
+* Dating preferences, such as gender, location, and age preference
+* Location Filter / Geofencing
+* Real-time Chat
+  ** Photo Messaging
+  ** Video Messaging
+  ** Audio Messages
+  ** Text Messaging & Emojis
+  ** Push Notifications
+  ** Clickable URLs
+  ** Photo Gallery
+  ** Online Indicators
+  ** In-Reply To functionality
 In-App Purchases / Monetization
 Limited number of daily swipes for free accounts
 Upgrade to VIP + In-App Payment flow
