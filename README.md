@@ -17,33 +17,35 @@
   ** Photo Gallery
   ** Online Indicators
   ** In-Reply To functionality
-In-App Purchases / Monetization
-Limited number of daily swipes for free accounts
-Upgrade to VIP + In-App Payment flow
-Recurring Subscriptions
-VIP Features
-Undo Swipe
-Unlimited Swipes
-Cancel subscription
-User Blocking and Reporting (per Apple’s guidelines)
-Push Notifications for Messages and Matches
-Localization (Multi-language translations) & RTL
-Dark Mode support
-Stunning Dating Profile Screen
-Photo Library
-Photo Gallery Carousel
-Bio, Distance, and School attributes
-Account Details (Edit Profile)
-Photo uploads from Camera & Library
-Photo removal
-Profile Photo editing
-Settings screen
-Contact us
-Photo Upload (with Firebase Storage)
-Phone Authentication with SMS confirmation
-Facebook Login
-E-mail & Password Login
-New User Onboarding with Walkthrough flow
-Save Password functionality
-User Management with Firebase Auth
-Full Backend Integration with Firebase Auth, Firestore and Storage
+* In-App Purchases / Monetization
+* Limited number of daily swipes for free accounts
+* Upgrade to VIP + In-App Payment flow
+* Recurring Subscriptions
+* VIP Features
+* Undo Swipe
+* Unlimited Swipes
+* Cancel subscription
+* User Blocking and Reporting (per Apple’s guidelines)
+* Push Notifications for Messages and Matches
+* Localization (Multi-language translations) & RTL
+* Dark Mode support
+* Stunning Dating Profile Screen
+* Photo Library
+* Photo Gallery Carousel
+* Bio, Distance, and School attributes
+* Account Details (Edit Profile)
+* Photo uploads from Camera & Library
+* Photo removal
+* Profile Photo editing
+* Settings screen
+* Contact us
+* Photo Upload (with Firebase Storage)
+* Phone Authentication with SMS confirmation
+* Facebook Login
+* E-mail & Password Login
+* New User Onboarding with Walkthrough flow
+* Save Password functionality
+* User Management with Firebase Auth
+* Full Backend Integration with Firebase Auth, Firestore and Storage
+
+<a href="https://www.instamobile.io/app-templates/react-native-dating-app/">Go</a>
