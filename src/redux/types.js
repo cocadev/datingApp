@@ -1,8 +1,0 @@
-const IMSwipeActionsConstants = {
-    SET_SWIPES: 'SET_SWIPES',
-    SET_MATCHES: 'SET_MATCHES',
-    SET_INCOMING_SWIPES: 'SET_INCOMING_SWIPES',
-    DID_SUBSCRIBE_TO_SWIPES: 'DID_SUBSCRIBE_TO_SWIPES'
-};
-
-export default IMSwipeActionsConstants;
