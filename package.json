@@ -30,7 +30,7 @@
     "react-native-dark-mode": "^0.2.1",
     "react-native-dialog-input": "^1.0.6",
     "react-native-elements": "^0.19.1",
-    "react-native-fast-image": "^7.0.2",
+    "react-native-fast-image": "^8.3.0",
     "react-native-fbsdk": "1.1.1",
     "react-native-firebase": "^5.5.5",
     "react-native-gesture-handler": "^1.5.1",
