@@ -1,4 +1,4 @@
-# React Native Dating App Features
+# React Native Dating App Features 2
 ## Our fully-coded app is highly customizable being built with ready-to-use screens, with easily configurable application design and optimized for user growth.
 
 * Dynamic Matching Algorithm
